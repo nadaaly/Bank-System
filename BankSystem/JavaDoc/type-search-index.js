@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"tasks","l":"Account"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"tasks","l":"Bank"},{"p":"tasks","l":"Client"},{"p":"tasks","l":"CommercialClient"},{"p":"tasks","l":"Main"},{"p":"tasks","l":"SpecialAccount"}];updateSearchResults();
